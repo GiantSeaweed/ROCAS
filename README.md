@@ -1,6 +1,8 @@
 # ROCAS
 
-This is repo for ASE'24 paper: "ROCAS: Root Cause Analysis of Autonomous Driving Accidents via Cyber-Physical Co-mutation".
+This is repo for ASE'24 paper: "ROCAS: Root Cause Analysis of Autonomous Driving Accidents via Cyber-Physical Co-mutation". 
+
+Our paper is very honored to receive 🎖 $${\color{red}ACM\ SIGSOFT\ Distinguished\ Paper\ Award}$$ !
 
 1. Full version of paper: https://arxiv.org/abs/2409.07774
 
